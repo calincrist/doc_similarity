@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<POS_Output>
+  <S id="1" offset="0">
+    <W EXTRA="NotInDict" LEMMA="﻿" MSD="M" POS="NUMERAL" id="1.1" offset="0">﻿</W>
+    <W EXTRA="NotInDict" LEMMA="Noutati" MSD="Np" POS="NOUN" Type="proper" id="1.2" offset="1">Noutati</W>
+  </S>
+  <S id="2" offset="13">
+    <W EXTRA="NotInDict" LEMMA="“" MSD="Vmip3s" Mood="indicative" Number="singular" POS="VERB" Person="third" Tense="present" Type="predicative" id="2.1" offset="0">“</W>
+    <W EXTRA="PropperNameCaseOverride" LEMMA="Un" MSD="Np" POS="NOUN" Type="proper" id="2.2" offset="2">Un</W>
+    <W Case="direct" Definiteness="no" Gender="masculine" LEMMA="filosof" MSD="Ncmsrn" Number="singular" POS="NOUN" Type="common" id="2.3" offset="5">filosof</W>
+    <W LEMMA="dicea" MSD="Np" POS="NOUN" Type="proper" id="2.4" offset="13">dicea</W>
+    <W LEMMA="ca" MSD="Rg" POS="ADVERB" id="2.5" offset="19">ca</W>
+    <W Case="direct" Definiteness="yes" Gender="feminine" LEMMA="femeie" MSD="Ncfsry" Number="singular" POS="NOUN" Type="common" id="2.6" offset="22">femeia</W>
+    <W LEMMA="," MSD="COMMA" id="2.7" offset="28">,</W>
+    <W LEMMA="ca" MSD="Rg" POS="ADVERB" id="2.8" offset="30">ca</W>
+    <W Case="direct" LEMMA="sine" MSD="Px3--r" POS="PRONOUN" Person="third" Type="reflexive" id="2.9" offset="33">se</W>
+    <W LEMMA="fie" MSD="Cc" POS="CONJUNCTION" Type="coordinating" id="2.10" offset="36">fie</W>
+    <W Case="direct" Definiteness="yes" Gender="feminine" LEMMA="bun" MSD="Afpfsry" Number="singular" POS="ADJECTIVE" id="2.11" offset="40">buna</W>
+    <W EXTRA="intranzitiv" LEMMA="trebui" MSD="Vmmp2s" Mood="imperative" Number="singular" POS="VERB" Person="second" Tense="present" Type="predicative" id="2.12" offset="45">trebuie</W>
+    <W Case="direct" LEMMA="sine" MSD="Px3--r" POS="PRONOUN" Person="third" Type="reflexive" id="2.13" offset="53">se</W>
+    <W EXTRA="NotInDict" LEMMA="intrunesca" MSD="Vmii3s" Mood="indicative" Number="singular" POS="VERB" Person="third" Tense="imperfect" Type="predicative" id="2.14" offset="56">intrunesca</W>
+    <W Case="direct" Definiteness="yes" EXTRA="NotInDict" Gender="feminine" LEMMA="urmatorele" MSD="Ncfpry" Number="plural" POS="NOUN" Type="common" id="2.15" offset="67">urmatorele</W>
+    <W Case="direct" Definiteness="no" EXTRA="NotInDict" Gender="feminine" LEMMA="conditiuni" MSD="Ncfprn" Number="plural" POS="NOUN" Type="common" id="2.16" offset="78">conditiuni</W>
+    <W LEMMA=":" MSD="COLON" id="2.17" offset="88">:</W>
+    <W Case="direct" LEMMA="sine" MSD="Px3--r" POS="PRONOUN" Person="third" Type="reflexive" id="2.18" offset="90">se</W>
+    <W Case="direct" LEMMA="sine" MSD="Px3--r" POS="PRONOUN" Person="third" Type="reflexive" id="2.19" offset="93">se</W>
+    <W LEMMA="asemene" MSD="Rg" POS="ADVERB" id="2.20" offset="96">asemene</W>
+    <W LEMMA="cu" MSD="Sp" POS="ADPOSITION" id="2.21" offset="104">cu</W>
+    <W Case="direct" Definiteness="yes" Gender="masculine" LEMMA="melc" MSD="Ncmsry" Number="singular" POS="NOUN" Type="common" id="2.22" offset="107">melcul</W>
+    <W LEMMA="," MSD="COMMA" id="2.23" offset="113">,</W>
+    <W EXTRA="NotInDict" LEMMA="adeca" MSD="Rg" POS="ADVERB" id="2.24" offset="115">adeca</W>
+    <W Case="direct" LEMMA="sine" MSD="Px3--r" POS="PRONOUN" Person="third" Type="reflexive" id="2.25" offset="121">se</W>
+    <W Case="direct" Definiteness="no" Gender="feminine" LEMMA="stea" MSD="Ncfsrn" Number="singular" POS="NOUN" Type="common" id="2.26" offset="124">stea</W>
+    <W Case="direct" Definiteness="no" Gender="masculine" LEMMA="in" MSD="Ncmsrn" Number="singular" POS="NOUN" Type="common" id="2.27" offset="129">in</W>
+    <W Case="direct" Definiteness="yes" Gender="feminine" LEMMA="casă" MSD="Ncfsry" Number="singular" POS="NOUN" Type="common" id="2.28" offset="132">casa</W>
+    <W LEMMA="lui" MSD="Ds3---sf" POS="DETERMINER" Person="third" Possessor_gender="feminine" Possessor_number="singular" Type="possessive" id="2.29" offset="137">ei</W>
+    <W LEMMA="," MSD="COMMA" id="2.30" offset="139">,</W>
+    <W LEMMA="dar" MSD="Cc" POS="CONJUNCTION" Type="coordinating" id="2.31" offset="141">dar</W>
+    <W Case="direct" LEMMA="sine" MSD="Px3--r" POS="PRONOUN" Person="third" Type="reflexive" id="2.32" offset="145">se</W>
+    <W LEMMA="nu" MSD="Qz" POS="PARTICLE" Type="negative" id="2.33" offset="148">nu</W>
+    <W Case="direct" Definiteness="yes" Gender="feminine" LEMMA="puna" MSD="Ncfsry" Number="singular" POS="NOUN" Type="common" id="2.34" offset="151">puna</W>
+    <W LEMMA="pe" MSD="Sp" POS="ADPOSITION" id="2.35" offset="156">pe</W>
+    <W Case="direct" Definiteness="no" Gender="feminine" LEMMA="spinare" MSD="Ncfsrn" Number="singular" POS="NOUN" Type="common" id="2.36" offset="159">spinare</W>
+    <W Case="direct" Gender="masculine" LEMMA="tot" MSD="Pi3msr" Number="singular" POS="PRONOUN" Person="third" Type="indefinite" id="2.37" offset="167">tot</W>
+    <W Case="direct" LEMMA="ce" MSD="Pw3--r" POS="PRONOUN" Person="third" Type="relative" id="2.38" offset="171">ce</W>
+    <W EXTRA="tranzitiv" LEMMA="poseda" MSD="Vmii3s" Mood="indicative" Number="singular" POS="VERB" Person="third" Tense="imperfect" Type="predicative" id="2.39" offset="174">poseda</W>
+    <W LEMMA=";" MSD="SCOLON" id="2.40" offset="180">;</W>
+  </S>
+  <S id="3" offset="195">
+    <W Case="direct" LEMMA="sine" MSD="Px3--r" POS="PRONOUN" Person="third" Type="reflexive" id="3.1" offset="0">se</W>
+    <W Case="direct" LEMMA="sine" MSD="Px3--r" POS="PRONOUN" Person="third" Type="reflexive" id="3.2" offset="3">se</W>
+    <W LEMMA="asemene" MSD="Rg" POS="ADVERB" id="3.3" offset="6">asemene</W>
+    <W LEMMA="cu" MSD="Sp" POS="ADPOSITION" id="3.4" offset="14">cu</W>
+    <W Case="direct" Definiteness="yes" Gender="masculine" LEMMA="ecou" MSD="Ncmsry" Number="singular" POS="NOUN" Type="common" id="3.5" offset="17">ecoul</W>
+    <W LEMMA="," MSD="COMMA" id="3.6" offset="23">,</W>
+    <W Case="direct" LEMMA="care" MSD="Pw3--r" POS="PRONOUN" Person="third" Type="relative" id="3.7" offset="25">care</W>
+    <W LEMMA="nu" MSD="Qz" POS="PARTICLE" Type="negative" id="3.8" offset="30">nu</W>
+    <W EXTRA="NotInDict" LEMMA="respunde" MSD="Vmip3s" Mood="indicative" Number="singular" POS="VERB" Person="third" Tense="present" Type="predicative" id="3.9" offset="33">respunde</W>
+    <W Case="direct" Definiteness="no" EXTRA="NotInDict" Gender="masculine" LEMMA="decat" MSD="Afpmsrn" Number="singular" POS="ADJECTIVE" id="3.10" offset="42">decat</W>
+    <W EXTRA="NotInDict" LEMMA="cand" MSD="Rg" POS="ADVERB" id="3.11" offset="48">cand</W>
+    <W EXTRA="intranzitiv" LEMMA="fi" MSD="Vmip3s" Mood="indicative" Number="singular" POS="VERB" Person="third" Tense="present" Type="predicative" id="3.12" offset="53">este</W>
+    <W Case="direct" Definiteness="no" EXTRA="NotInDict" Gender="masculine" LEMMA="intrebat" MSD="Afpmsrn" Number="singular" POS="ADJECTIVE" id="3.13" offset="58">intrebat</W>
+    <W LEMMA="," MSD="COMMA" id="3.14" offset="66">,</W>
+    <W LEMMA="dar" MSD="Cc" POS="CONJUNCTION" Type="coordinating" id="3.15" offset="68">dar</W>
+    <W Case="direct" LEMMA="sine" MSD="Px3--r" POS="PRONOUN" Person="third" Type="reflexive" id="3.16" offset="72">se</W>
+    <W LEMMA="nu" MSD="Qz" POS="PARTICLE" Type="negative" id="3.17" offset="75">nu</W>
+    <W EXTRA="tranzitiv" LEMMA="repeta" MSD="Vmsp3" Mood="conjunctive" POS="VERB" Person="third" Tense="present" Type="predicative" id="3.18" offset="78">repete</W>
+    <W LEMMA="," MSD="COMMA" id="3.19" offset="84">,</W>
+    <W LEMMA="ca" MSD="Rg" POS="ADVERB" id="3.20" offset="86">ca</W>
+    <W Case="direct" Definiteness="yes" Gender="masculine" LEMMA="ecou" MSD="Ncmsry" Number="singular" POS="NOUN" Type="common" id="3.21" offset="89">ecoul</W>
+    <W LEMMA="," MSD="COMMA" id="3.22" offset="94">,</W>
+    <W Case="direct" Gender="masculine" LEMMA="tot" MSD="Pi3msr" Number="singular" POS="PRONOUN" Person="third" Type="indefinite" id="3.23" offset="96">tot</W>
+    <W Case="direct" LEMMA="ce" MSD="Pw3--r" POS="PRONOUN" Person="third" Type="relative" id="3.24" offset="100">ce</W>
+    <W EXTRA="tranzitiv" LEMMA="auzi" MSD="Vmip3s" Mood="indicative" Number="singular" POS="VERB" Person="third" Tense="present" Type="predicative" id="3.25" offset="103">aude</W>
+    <W LEMMA=";" MSD="SCOLON" id="3.26" offset="107">;</W>
+  </S>
+  <S id="4" offset="304">
+    <W Case="direct" LEMMA="sine" MSD="Px3--r" POS="PRONOUN" Person="third" Type="reflexive" id="4.1" offset="0">se</W>
+    <W Case="direct" LEMMA="sine" MSD="Px3--r" POS="PRONOUN" Person="third" Type="reflexive" id="4.2" offset="3">se</W>
+    <W LEMMA="asemene" MSD="Rg" POS="ADVERB" id="4.3" offset="6">asemene</W>
+    <W LEMMA="cu" MSD="Sp" POS="ADPOSITION" id="4.4" offset="14">cu</W>
+    <W Case="direct" Definiteness="yes" EXTRA="NotInDict" Gender="masculine" LEMMA="ciasornicul" MSD="Ncmsry" Number="singular" POS="NOUN" Type="common" id="4.5" offset="17">ciasornicul</W>
+    <W Case="direct" Definiteness="no" Gender="masculine" LEMMA="public" MSD="Afpmsrn" Number="singular" POS="ADJECTIVE" id="4.6" offset="29">public</W>
+    <W LEMMA="," MSD="COMMA" id="4.7" offset="35">,</W>
+    <W EXTRA="NotInDict" LEMMA="adeca" MSD="Rg" POS="ADVERB" id="4.8" offset="37">adeca</W>
+    <W Case="direct" LEMMA="sine" MSD="Px3--r" POS="PRONOUN" Person="third" Type="reflexive" id="4.9" offset="43">se</W>
+    <W LEMMA="fie" MSD="Cc" POS="CONJUNCTION" Type="coordinating" id="4.10" offset="46">fie</W>
+    <W EXTRA="NotInDict" LEMMA="esacta" MSD="Vmii3s" Mood="indicative" Number="singular" POS="VERB" Person="third" Tense="imperfect" Type="predicative" id="4.11" offset="50">esacta</W>
+    <W LEMMA="," MSD="COMMA" id="4.12" offset="56">,</W>
+    <W LEMMA="dar" MSD="Cc" POS="CONJUNCTION" Type="coordinating" id="4.13" offset="58">dar</W>
+    <W Case="direct" LEMMA="sine" MSD="Px3--r" POS="PRONOUN" Person="third" Type="reflexive" id="4.14" offset="62">se</W>
+    <W LEMMA="nu" MSD="Qz" POS="PARTICLE" Type="negative" id="4.15" offset="65">nu</W>
+    <W EXTRA="NotInDict" LEMMA="faca" MSD="Vmii3s" Mood="indicative" Number="singular" POS="VERB" Person="third" Tense="imperfect" Type="predicative" id="4.16" offset="68">faca</W>
+    <W LEMMA="ca" MSD="Rg" POS="ADVERB" id="4.17" offset="73">ca</W>
+    <W Case="direct" Definiteness="yes" EXTRA="NotInDict" Gender="masculine" LEMMA="ciasornicul" MSD="Afpmsry" Number="singular" POS="ADJECTIVE" id="4.18" offset="76">ciasornicul</W>
+    <W Case="direct" Definiteness="no" Gender="masculine" LEMMA="public" MSD="Ncmsrn" Number="singular" POS="NOUN" Type="common" id="4.19" offset="88">public</W>
+    <W Case="direct" Gender="masculine" LEMMA="al" MSD="Tsmsr" Number="singular" POS="ARTICLE" Type="possessive" id="4.20" offset="95">al</W>
+    <W Case="oblique" Definiteness="yes" EXTRA="NotInDict" Gender="feminine" LEMMA="carui" MSD="Ncfsoy" Number="singular" POS="NOUN" Type="common" id="4.21" offset="98">carui</W>
+    <W Case="direct" Definiteness="no" EXTRA="NotInDict" Gender="masculine" LEMMA="sgomot" MSD="Ncmsrn" Number="singular" POS="NOUN" Type="common" id="4.22" offset="104">sgomot</W>
+    <W Case="direct" LEMMA="sine" MSD="Px3--r" POS="PRONOUN" Person="third" Type="reflexive" id="4.23" offset="111">se</W>
+    <W EXTRA="tranzitiv" LEMMA="auzi" MSD="Vmip3s" Mood="indicative" Number="singular" POS="VERB" Person="third" Tense="present" Type="predicative" id="4.24" offset="114">aude</W>
+    <W Case="direct" Definiteness="no" Gender="masculine" LEMMA="in" MSD="Ncmsrn" Number="singular" POS="NOUN" Type="common" id="4.25" offset="119">in</W>
+    <W LEMMA="tot" MSD="Rg" POS="ADVERB" id="4.26" offset="123">tot</W>
+    <W Case="direct" Definiteness="yes" EXTRA="NotInDict" Gender="masculine" LEMMA="orasul" MSD="Ncmsry" Number="singular" POS="NOUN" Type="common" id="4.27" offset="127">orasul</W>
+    <W LEMMA="." MSD="PERIOD" id="4.28" offset="133">.</W>
+    <W LEMMA="”" MSD="DBLQ" id="4.29" offset="135">”</W>
+  </S>
+</POS_Output>
